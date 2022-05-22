@@ -44,10 +44,6 @@
 
 <br>
 
-- https://scvgoe.github.io/2017-02-01-%ED%98%91%EC%97%85-%ED%95%84%ED%84%B0%EB%A7%81-%EC%B6%94%EC%B2%9C-%EC%8B%9C%EC%8A%A4%ED%85%9C-(Collaborative-Filtering-Recommendation-System)/
-
-<br>
-
 사용자 기반 CF
 - 데이터 크기 적고, 사용자에 대한 정보가 있는 경우에는 사용자 기반 CF가 적절
 - 데이터가 풍부할 경우 정확한 추천을 함
@@ -71,7 +67,7 @@
 
 - https://scienceon.kisti.re.kr/srch/selectPORSrchArticle.do?cn=JAKO201529539328790&dbt=NART
 - https://tech.kakao.com/2021/10/18/collaborative-filtering/
-
+- https://scvgoe.github.io/2017-02-01-%ED%98%91%EC%97%85-%ED%95%84%ED%84%B0%EB%A7%81-%EC%B6%94%EC%B2%9C-%EC%8B%9C%EC%8A%A4%ED%85%9C-(Collaborative-Filtering-Recommendation-System)/
 
 -----
 
