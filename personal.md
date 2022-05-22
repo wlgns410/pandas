@@ -1,5 +1,7 @@
 # 인프런 python 개인 추천 알고리즘 강의 요약
 
+<br>
+
 - 강의 보고 공부중
 
 
@@ -26,7 +28,7 @@
 
 <br>
 
-참고 자료
+필터링 종류 소개
 
 - https://scienceon.kisti.re.kr/srch/selectPORSrchArticle.do?cn=JAKO201529539328790&dbt=NART
 - https://tech.kakao.com/2021/10/18/collaborative-filtering/
